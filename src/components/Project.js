@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaRegImage } from 'react-icons/fa';
+import { FaGithub } from 'react-icons/fa';
 
 function Portfolio(props) {
     const images = [
